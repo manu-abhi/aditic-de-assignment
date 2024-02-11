@@ -4,7 +4,7 @@ data folder contains the input data
 
 output folder contains the output data + geomap html
 
-loom video link explaning the project: https://www.loom.com/share/2ed56bae8bf2428c81f97377e27f4fcf?sid=d16d5609-0f31-4998-bdfe-4a664d1fa9ac
+loom video link explaning the project: https://www.loom.com/share/57a7e4c88edc410d958bec0fa40f5d4c?sid=8f4e2c23-3b5b-4324-8d7a-fd56cfd79c53
 
 ## Steps to run the code:
 1. Clone the repository and move the the directory
