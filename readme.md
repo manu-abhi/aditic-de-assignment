@@ -4,9 +4,11 @@ data folder contains the input data
 
 output folder contains the output data + geomap html
 
-loom video link explaning the project: https://www.loom.com/share/57a7e4c88edc410d958bec0fa40f5d4c?sid=8f4e2c23-3b5b-4324-8d7a-fd56cfd79c53
+loom video link explaning the project: https://www.loom.com/share/11234874334f4fb1a561bdcfbe2c7da9?sid=0589e9c2-884f-4fb0-ae22-c56f6939e931
 
 ## Steps to run the code:
+
+**You need spark version 3 or above already installed on the system before following the below steps.**
 1. Clone the repository and move the the directory
 2. Create a conda environment
 
